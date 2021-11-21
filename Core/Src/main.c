@@ -18,13 +18,7 @@
   */
 /* USER CODE END Header */
 /* Includes ------------------------------------------------------------------*/
-#include <stdlib.h>
-
 #include "main.h"
-#include "fonts.h"
-#include "ssd1306.h"
-#include "test.h"
-#include "mpu6050.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
